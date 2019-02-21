@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    >
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="QUINIELA La Liga Española"
+        android:textSize="25dp"
+        android:gravity="center"
+        
+        />
+    <ImageView
+        android:layout_width="210dp"
+        android:layout_height="180dp"
+        android:background="@drawable/logoquinielale"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="75dp"
+    />
+  
+    
+ 
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="37dp"
+        android:text="Acceder"
+        android:onClick="eventoAcceder"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="120dp"
+        
+        
+        />
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="37dp"
+        android:text="DADM_ITICS_FINAL"
+        android:gravity="center"
+        
+        android:layout_marginTop="460dp"
+        />
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="37dp"
+        android:text="Carlos C. Ruiz"
+        android:gravity="center"
+        
+        android:layout_marginTop="480dp"
+        />
+    
+     <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="37dp"
+        android:text="Jorge Vazquez M."
+        android:gravity="center"
+        
+        android:layout_marginTop="500dp"
+        />
+    </RelativeLayout>
+</LinearLayout>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="app_quiniela">Quiniela La Liga Española</string>
+    <string-array name="opciones_array">
+        <item>Calendario</item>
+        <item>Posiciones</item>
+        <item>Quiniela</item>
+        <item>Resultados</item>
+        <item>Salir </item>
+       
+    </string-array>
+  
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    
+    
+    <string name="tituloSpinnerJornadas">Meses</string>
+        <string-array name="jornadas">
+            <item>Selecc Jornada</item>
+            <item>Jornada 1</item>
+            <item>Jornada 2</item>
+            <item>Jornada 3</item>
+            <item>Jornada 4</item>
+            <item>Jornada 5</item>
+            <item>Jornada 6</item>
+            <item>Jornada 7</item>
+            <item>Jornada 8</item>
+            <item>Jornada 9</item>
+            <item>Jornada 10</item>
+            <item>Jornada 11</item>
+            <item>Jornada 12</item>
+            <item>Jornada 13</item>
+            <item>Jornada 14</item>
+            <item>Jornada 15</item>
+            <item>Jornada 16</item>
+            <item>Jornada 17</item>
+            <item>Jornada 18</item>
+            <item>Jornada 19</item>
+            <item>Jornada 20</item>
+            <item>Jornada 21</item>
+            <item>Jornada 22</item>
+            <item>Jornada 23</item>
+            <item>Jornada 24</item>
+            <item>Jornada 25</item>
+            <item>Jornada 26</item>
+            <item>Jornada 27</item>
+            <item>Jornada 28</item>
+            <item>Jornada 29</item>
+            <item>Jornada 30</item>
+            <item>Jornada 31</item>
+            <item>Jornada 32</item>
+            <item>Jornada 33</item>
+            <item>Jornada 34</item>
+            <item>Jornada 35</item>
+            <item>Jornada 36</item>
+            <item>Jornada 37</item>
+            <item>Jornada 38</item> 
+        </string-array>
+</resources>
