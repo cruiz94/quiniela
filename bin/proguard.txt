@@ -1,0 +1,39 @@
+# view res/layout/activity_main.xml #generated:2
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_main.xml #generated:2
+# view sw720dp-v13\res/layout-sw720dp-v13/activity_main.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.quiniela.FragmentoCalendario { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.quiniela.FragmentoPosiciones { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.quiniela.FragmentoQuiniela { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.quiniela.FragmentoResultados { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.quiniela.Inicio { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.quiniela.MenuPrincipal { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.quiniela.NotificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.quiniela.NotificationView { <init>(...); }
+
+# onClick res/layout/inicio.xml #generated:31
+# onClick sw600dp-v13\res/layout-sw600dp-v13/inicio.xml #generated:31
+# onClick sw720dp-v13\res/layout-sw720dp-v13/inicio.xml #generated:31
+-keepclassmembers class * { *** eventoAcceder(...); }
+
+# onClick res/layout/activity_notification_example.xml #generated:14
+# onClick sw600dp-v13\res/layout-sw600dp-v13/activity_notification_example.xml #generated:14
+# onClick sw720dp-v13\res/layout-sw720dp-v13/activity_notification_example.xml #generated:14
+-keepclassmembers class * { *** onClick(...); }
+
